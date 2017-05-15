@@ -1,8 +1,1 @@
 
-<Version: 1.01>
-/img/pictures/Título.png http://imgur.com/a/Hcl4u
-<End of Version>
-
-<Version: 1.02>
-/data/prueba.txt https://raw.githubusercontent.com/Lucianroc/Galaga_Actualizaciones/master/Tutoriales.txt
-<End of Version>
