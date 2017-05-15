@@ -4,5 +4,5 @@
 <End of Version>
 
 <Version: 1.02>
-/data/prueba.zip https://downloads.wordpress.org/plugin/download-manager.zip
+/data/prueba.txt
 <End of Version>
